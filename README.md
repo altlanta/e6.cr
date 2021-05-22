@@ -4,6 +4,8 @@ A fast, simple, and easy-to-use e621/e926 client written in Crystal.
 
 **To clarify the name,** "e6.cr" is the proper name of this lib. However, to prevent redundancy in file naming, the *technical* name is simply "e6". (since `.cr` is the common file extension)
 
+(also my first Crystal project)
+
 ## Installation
 
 1. Add the dependency to your `shard.yml`:
@@ -26,7 +28,7 @@ At the moment, the only supported API endpoints are those of the most common use
 
 ## Contributing
 
-1. Fork it (<https://github.com/your-github-user/cr-e6client/fork>)
+1. Fork it (<https://github.com/altlanta/cr-e6client/fork>)
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
