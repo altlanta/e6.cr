@@ -1,0 +1,11 @@
+{
+  "id": 9000,
+  "name": "name",
+  "post_count": 9001,
+  "related_tags": "rel1 9002 rel2 9003 rel3 9004 rel4 9005",
+  "related_tags_updated_at": "related_tags_updated_at",
+  "category": 8,
+  "is_locked": false,
+  "created_at": "created_at",
+  "updated_at": "updated_at"
+}

@@ -1,0 +1,11 @@
+{
+  "id": 9000,
+  "created_at": "created_at",
+  "post_id": 9001,
+  "reason": "reason",
+  "creator_id": 9002,
+  "is_resolved": true,
+  "updated_at": "updated_at",
+  "is_deletion": false,
+  "category": "category"
+}
